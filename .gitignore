@@ -3,3 +3,5 @@
 logs/
 __pycache__/
 products.csv
+cache.json
+possible_products.json
