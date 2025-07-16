@@ -1,0 +1,5 @@
+.cursor
+.env
+logs/
+__pycache__/
+products.csv
